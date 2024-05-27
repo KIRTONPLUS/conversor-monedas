@@ -4,7 +4,7 @@
   <br />
   <br />
   <a>
-    <img src="https://github.com/KIRTONPLUS/conversor-monedas/blob/main/conversor-monedas.jpg" width="400" height="200" alt="Conversor">
+    <img src="conversor-monedas.jpg" width="400" height="200" alt="Conversor">
   </a>
 </h1>
 </div>
